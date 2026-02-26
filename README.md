@@ -1,39 +1,24 @@
-# Hi 👋 I'm Muaaz Khan  
+# 💫 About Me:
+Hi, I'm Muaaz Khan 👋  <br>Full Stack Developer | Python & Java Programmer<br><br>🔭 Building scalable web applications using React, Django & MySQL  <br>🌱 Exploring advanced Python, Java, and backend architecture  <br>🤝 Open to internships and collaborative projects  <br>💬 Skilled in Web Development, OOP, Database Management  <br>⚡ Passionate about coding and continuous learning
 
-🎓 **B.Tech CSE Student**  
-💻 **Aspiring Full-Stack Developer**  
-🚀 Learning, building, and improving every day  
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muaazkhan.muaazkhan.75) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muaaz_khan07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muaaz-khan-925b17299) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khanmuaaz19204@gmail.com) 
 
-## 👨‍💻 About Me
-- 🌱 Currently learning **Python & Django**
-- 🔭 Interested in **Backend & Full-Stack Development**
-- 🛠️ Building small projects to strengthen fundamentals
-- 🎯 Goal: Become a skilled **Software / Web Developer**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=khanmuaaz19204-hue&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=khanmuaaz19204-hue&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khanmuaaz19204-hue&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=khanmuaaz19204-hue&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🧰 Tech Stack
-- **Languages:** Python, Java (Basics)
-- **Backend:** Django
-- **Web:** HTML, CSS (Learning)
-- **Tools:** Git, GitHub, VS Code
-- **Database:** SQLite (Learning)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=khanmuaaz19204-hue&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=khanmuaaz19204-hue&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📂 Projects
-- 🔹 **College Basic Python** – Practice programs & fundamentals  
-- 🔹 **Java Programming** – Core Java practice repository  
-- 🔹 **Django Learning Projects** – Beginner Django apps (coming soon 🚀)
-
----
-
-## 🌐 Connect With Me
-- 💼 LinkedIn: [Muaaz Khan](https://www.linkedin.com/in/muaaz-khan-925b17299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 🧑‍💻 GitHub: [@khanmuaaz19204-hue](https://github.com/khanmuaaz19204-hue)
-
----
-
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
